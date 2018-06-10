@@ -14,5 +14,8 @@
 > * UI beautify
 > * Few initial "shapes" to choose from
 
+## Notes
+> * JS code is not fully optimized yet
+
 ## Preview
 <img src="https://github.com/Emzawadzki/GameOfLife/blob/master/layout-preview.jpg" alt="Layout preview"/>
